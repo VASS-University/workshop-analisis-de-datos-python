@@ -1,10 +1,8 @@
 pandas
-ipywidgets
+jupyter
 ipykernel
 scipy
 scikit-learn
 matplotlib
 seaborn
-python-setuptools
 numpy
-sweetviz
